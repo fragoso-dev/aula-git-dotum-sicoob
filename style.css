@@ -1,0 +1,28 @@
+body{
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(145deg, #03d260, #037d1d);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-shreck{
+    height: 1000px;
+    width: 1200px;
+}
+
+.img-content{
+    align-items: center;
+    justify-content: center;
+}
+
+.img-content h2{
+    font-size: 100px;
+    font-weight: bold;
+}
